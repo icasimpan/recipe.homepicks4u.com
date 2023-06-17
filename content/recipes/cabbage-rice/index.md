@@ -2,13 +2,13 @@
 layout: recipe
 date: 2022-06-16T18:36:19+08:00
 draft: false
-title:  "Cabbage Rice" # The title of your awesome recipe
+title: "Cabbage Rice" # The title of your awesome recipe
 image: cabbage-rice.jpg # Name of image in recipe bundle
-imagecredit: https://lifestyle.inquirer.net/362467/you-can-make-bread-using-kawali/ # URL to image source page, website, or creator
+imagecredit:  https://www.youtube.com/watch?v=CXS4eRzJF-A# URL to image source page, website, or creator
 YouTubeID: CXS4eRzJF-A  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: Dodong Gala # Name of the recipe/article author
-authorURL:  # URL of their home website
-sourceName: # Name of the source website
+authorURL:  https://www.youtube.com/watch?v=CXS4eRzJF-A # URL of their home website
+sourceName: "Dodong Gala" # Name of the source website
 sourceURL: https://www.youtube.com/watch?v=CXS4eRzJF-A # Actual URL of the recipe itself
 category: "low carb", "rice substitute" # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 cuisine: Filipino # The region associated with your recipe. For example, "French", Mediterranean", or "American".
