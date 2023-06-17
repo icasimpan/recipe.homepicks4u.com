@@ -9,7 +9,7 @@ YouTubeID: CXS4eRzJF-A  # The F2SYDXV1W1w part of https://www.youtube.com/watch?
 authorName: Dodong Gala # Name of the recipe/article author
 authorURL:  # URL of their home website
 sourceName: # Name of the source website
-sourceURL: # Actual URL of the recipe itself
+sourceURL: https://www.youtube.com/watch?v=CXS4eRzJF-A # Actual URL of the recipe itself
 category: "low carb", "rice substitute" # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 cuisine: Filipino # The region associated with your recipe. For example, "French", Mediterranean", or "American".
 tags: 
