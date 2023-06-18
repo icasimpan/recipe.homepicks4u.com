@@ -41,5 +41,5 @@ menu:
       url: /tags/
 taxonomies:
   category: category
-  cusine: cuisine
+  cuisine: cuisine
   tag: tags
