@@ -21,7 +21,7 @@ cookTime: 45
 
 ingredients:
 - 1 1/2 lbs beef sirloin thinly sliced
-- 5 tablespoons coco aminos (or soy sauce but not that this is not low carb)
+- 5 tablespoons coco aminos (or soy sauce but is not ideal if you're on keto diet)
 - 4 pieces calamansi or 1-piece lemon
 - 1/2 tsp ground black pepper
 - 3 cloves garlic minced
