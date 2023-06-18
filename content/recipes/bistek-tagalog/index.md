@@ -21,18 +21,18 @@ cookTime: 45
 
 ingredients:
 - 1 1/2 lbs beef sirloin thinly sliced
-- 5 tablespoons soy sauce
+- 5 tablespoons coco aminos (non-low carb: soy sauce)
 - 4 pieces calamansi or 1-piece lemon
 - 1/2 tsp ground black pepper
 - 3 cloves garlic minced
 - 3 pieces yellow onion sliced into rings
-- 4 tablespoons cooking oil
+- 4 tablespoons coconut oil
 - 1 cup water
 - 1 pinch salt
 
 directions:
-- Marinate beef in soy sauce, lemon (or calamansi), and ground black pepper for at least 1 hour. Marinate overnight for best result.
-- Heat the cooking oil in a pan then pan-fry half of the onions until the texture becomes soft. Set aside.
+- Marinate beef in coco aminos, lemon (or calamansi), and ground black pepper for at least 1 hour. Marinate overnight for best result.
+- Heat the coconut oil in a pan then pan-fry half of the onions until the texture becomes soft. Set aside.
 - Drain the marinade from the beef. Set it aside. 
 - Pan-fry the beef on the same pan where the onions were fried for 1 minute per side. Remove from the pan. Set aside.
 - Add more oil if needed. Saute garlic and remaining raw onions until onion softens.
